@@ -63,7 +63,7 @@
 ---
 
 ## 💬 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/haroonurrasheed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/haroonurrasheed1983)
 [![GitHub](https://img.shields.io/badge/GitHub-100000.svg?logo=github&logoColor=white)](https://github.com/le3arn2code)
 [![Twitter (X)](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/le3arn2code)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?logo=githubpages&logoColor=white)](https://le3arn2code.github.io)
@@ -71,7 +71,7 @@
 ---
 
 ## 🧩 Fun Facts  
-- 🛠 Built over 50 hands-on labs in DevOps & AI.  
+- 🛠 Built over 100s hands-on labs in DevOps, SysOps & AI.  
 - ☕ Believe in *code, coffee & consistency*.  
 - 🧩 Love reverse-engineering complex systems to simplify them for others.  
 

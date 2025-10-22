@@ -9,10 +9,10 @@
 ---
 
 ## 🧭 About Me  
-🌍 **Location:** Jeddah | Riyadh | Remote  
-🎓 **Education:** MSc Applied Artificial Intelligence @ LSBU London  
+🌍 **Location:** Jeddah | Riyadh | Remote | Anywhere 
+🎓 **Education:** Bachelors of Computer Science, University of Peshawar, KP, Pakistan. 
 💼 **Focus:** Designing secure, scalable, and compliant **multi-cloud infrastructures**  
-💡 **Passion:** Blending **DevOps pipelines + AI ops + Cloud security** for resilient systems  
+💡 **Passion:** Blending **DevOps pipelines + AI ops + Cloud security + SysOps** for resilient systems  
 
 ---
 

@@ -9,7 +9,7 @@
 ---
 
 ## 🧭 About Me  
-🌍 **Location:** Jeddah | Riyadh | Remote | Anywhere 
+🌍 **Location:** Jeddah | Riyadh | Remote |
 🎓 **Education:** Bachelors of Computer Science, University of Peshawar, KP, Pakistan. 
 💼 **Focus:** Designing secure, scalable, and compliant **multi-cloud infrastructures**  
 💡 **Passion:** Blending **DevOps pipelines + AI ops + Cloud security + SysOps** for resilient systems  

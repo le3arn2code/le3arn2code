@@ -20,10 +20,10 @@
 | 🔧 Project | 🧠 Description |
 |-------------|----------------|
 | 🧩 **[OpenShift-Admin-II-Fiesta](https://github.com/le3arn2code/openshift-admin-ii-fiesta)** | 20+ labs mastering Operators, Pipelines, SCC, and troubleshooting in OpenShift |
-| ☁️ **[Argocd-3-Tier-EKS](https://github.com/le3arn2code/argocd-3-tier-eks)** | GitOps pipeline deploying a 3-tier application on AWS EKS |
-| 🧱 **[3-Tier-Multi-Cloud-Project](https://github.com/le3arn2code/3-tier-multi-cloud-project)** | Terraform-based architecture integrating AWS & Azure with Kubernetes |
-| 🧪 **[Docker-ML-Playground](https://github.com/le3arn2code/docker-ml-playground)** | Containerized ML experimentation platform |
-| 🔐 **Quantum-Resistant Crypto Migration** *(coming soon)* | PQC + Vault + cert-manager + Sigstore for hybrid crypto transition |
+| ☁️ **[Practical-Application-of-ML-II](https://github.com/le3arn2code/Practical-Application-of-ML-II)** | Practical Application of Machine Learning |
+| 🧱 **[Professional-Cloud-Security](https://github.com/le3arn2code/Professional-Cloud-Security-II)** | Professional Cloud Security - Securing the cloud |
+| 🧪 **[Python-Programming-for-Machine-Learning-II](https://github.com/le3arn2code/Python-Programming-for-Machine-Learning-II)** | Python Programming for Machine Learning |
+| 🔐 **Quantum-Resistant Cryptographic Migration** *(coming soon)* | PQC + Vault + cert-manager + Sigstore for hybrid crypto transition |
 
 ---
 

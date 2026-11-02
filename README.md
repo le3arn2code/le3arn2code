@@ -27,7 +27,7 @@
 
 | Project | What it shows |
 | --- | --- |
-| 🔐 [google-cybersecurity-portfolio](https://github.com/le3arn2code/google-cybersecurity-portfolio) | Google Cybersecurity Professional Certificate — hands-on Linux labs (permissions & authorization, grep log filtering, package management) with verified write-ups · 25/25 lab checks |
+| 🔐 [google-cybersecurity-portfolio](https://github.com/le3arn2code/cybersecurity-portfolio) | Google Cybersecurity Professional Certificate — hands-on Linux labs (permissions & authorization, grep log filtering, package management) with verified write-ups · 25/25 lab checks |
 | ☁️ [aws-security-baseline](https://github.com/le3arn2code/aws-security-baseline) | AWS security baseline — guardrails and controls implemented as code, with threat model |
 | 🧩 [openshift-operations](https://github.com/le3arn2code/openshift-operations) | OpenShift operations portfolio — RBAC, SCC, network policy, operators, pipelines, upgrades, troubleshooting runbooks |
 | 🤖 [ai-ml-internship-projects](https://github.com/le3arn2code/ai-ml-internship-projects) | Applied AI/ML projects, including a LangChain + FAISS RAG chatbot |
